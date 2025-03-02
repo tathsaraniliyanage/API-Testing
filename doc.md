@@ -12,6 +12,19 @@ Performance: Ensuring the API performs well under load.
 
 Security: Ensuring the API is secure from external threats.
 
+
+## How to Do API Testing Using Postman
+
+Postman is a popular tool for API testing that allows you to create, share, test, and document APIs.
+You can download postman API using following link:
+```
+https://www.postman.com/downloads/
+```
+
+This is the overview of the postman API :
+![Screenshot from 2025-03-02 23-31-45](https://github.com/user-attachments/assets/336b528f-0803-4d17-8923-4ee312e16974)
+
+
 ![alt text](../../../../Pictures/api-testing-touchscreen-postman-illustration.svg)
 
 
