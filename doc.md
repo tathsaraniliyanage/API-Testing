@@ -48,6 +48,41 @@ Here’s a step-by-step guide on how to perform API testing using Postman:
    - Add Headers: If the API requires headers, you can add them in the "Headers" tab.
    - Add Body: For methods like POST or PUT, you may need to send a request body. You can add this in the "Body" tab, 
      selecting the appropriate format (e.g., JSON, form-data).
+     
+4. Send the Request
+
+   - Click the "Send" button to send the request to the API.
+   - The response will be displayed in the lower section of the Postman window, including the status code, response time, and 
+     the response body.
+
+5. Validate the Response
+
+   - Status Code: Check if the status code is as expected (e.g., 200 for success, 404 for not found).
+   - Response Body: Verify that the response body contains the expected data.
+   - Headers: Check if the response headers are as expected.
+
+
+## Example: Testing a GET Request
+
+   - Method: GET
+   - URL: https://api.example.com/users
+   - Headers: Authorization: Bearer <token>
+
+
+## development level of testing
+
+   ![image](https://github.com/user-attachments/assets/8c14f408-aeaa-4ee5-a3df-691b25c22c5d)
+
+## API testing types
+
+ - Unit testing
+ - Load testing
+ - End-to-end testing
+ - Contract testing
+
+![image](https://github.com/user-attachments/assets/55ca8386-3efd-4b93-a8a0-ca87d3a4db10)
+
+<br>
 
 
 
