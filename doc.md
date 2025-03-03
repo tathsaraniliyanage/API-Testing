@@ -1,4 +1,8 @@
 # API -testing
+
+![image](https://github.com/user-attachments/assets/a7149d80-ca82-46a6-8e2d-37cf256e58d0)
+
+
 API testing can help teams confirm that their API's endpoints, methods, and integrations are functioning as expected.
 
 API (Application Programming Interface) testing is a type of software testing that involves testing APIs directly and as part of integration testing to determine whether they meet expectations for functionality, reliability, performance, and security. Unlike UI testing, API testing focuses on the business logic layer of the software architecture.
