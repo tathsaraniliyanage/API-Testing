@@ -1,4 +1,4 @@
-# API Testing
+# API Testing 🔍
 
 ![image](https://github.com/user-attachments/assets/452e0077-0d4d-4751-bc92-f93e1f41fa24)
 
@@ -58,3 +58,12 @@ API test automation is the process of using a testing tool to programmatically e
 
 API monitoring is the process of gathering, visualizing, and alerting on API telemetry data to ensure that API requests are handled as expected.
 
+
+## Who Is This For?
+
+- QA Engineers
+- Developers
+- Test Automation Engineers
+- Anyone interested in learning API testing and automation
+
+### Happy Coding! ✨
