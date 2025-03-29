@@ -175,7 +175,3 @@ There are several best practices that teams should follow to implement an API te
 While manual API testing can help developers debug specific problems, test automation enables teams to systematize their approach in order to ensure consistent coverage and reduce the possibility of human error. Teams can use a variety of tools to create test suites and schedule executions to occur at specific times, at specific frequencies, or in CI/CD pipelines after every commit or push.
      
 
-
-![alt text](../../../../Pictures/api-testing-touchscreen-postman-illustration.svg)
-
-
